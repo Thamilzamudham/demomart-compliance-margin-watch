@@ -1,0 +1,38 @@
+{
+  "seed": 42,
+  "scale": 1.0,
+  "period": "2025-11-01 to 2026-10-31",
+  "rows": {
+    "dim_product": 310,
+    "dim_seller": 25,
+    "dim_date": 365,
+    "fact_price_history": 113150,
+    "fact_promotions": 743,
+    "fact_orders": 45843,
+    "fact_returns": 5109,
+    "fact_invoices": 45340,
+    "ground_truth_planted_issues": 5746
+  },
+  "return_rate": 0.1114,
+  "defect_share_of_returns": 0.2451,
+  "promos_over_50pct_advertised": 16,
+  "planted_issue_counts": {
+    "card_surcharge": 1646,
+    "invoice_missing": 935,
+    "invoice_missing_trn": 904,
+    "invoice_vat_mismatch": 902,
+    "invoice_date_before_order": 456,
+    "invoice_duplicate": 432,
+    "invoice_date_missing": 389,
+    "promo_inflated_was_price": 49,
+    "promo_price_hike": 27,
+    "recurring_defect_product": 6
+  },
+  "pr1_rule_check_vs_answer_key": {
+    "pr1_flagged": 76,
+    "pr1_planted": 76,
+    "pr1_true_positive": 76,
+    "pr1_false_positive": 0,
+    "pr1_false_negative": 0
+  }
+}

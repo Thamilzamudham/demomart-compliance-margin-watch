@@ -1,0 +1,311 @@
+product_id,product_name,category,brand,seller_id,cost_price_aed,base_price_aed
+P0001,Electronics Item 001,Electronics,Brand G,S08,1048.06,1493.95
+P0002,Electronics Item 002,Electronics,Brand B,S00,112.18,152.49
+P0003,Electronics Item 003,Electronics,Brand L,S00,623.38,857.09
+P0004,Electronics Item 004,Electronics,Brand J,S00,1385.81,1725.76
+P0005,Electronics Item 005,Electronics,Brand D,S17,450.14,575.95
+P0006,Electronics Item 006,Electronics,Brand J,S00,214.74,309.92
+P0007,Electronics Item 007,Electronics,Brand L,S00,397.69,497.67
+P0008,Electronics Item 008,Electronics,Brand L,S24,92.01,119.21
+P0009,Electronics Item 009,Electronics,Brand K,S21,1284.7,1774.39
+P0010,Electronics Item 010,Electronics,Brand K,S16,402.42,509.42
+P0011,Electronics Item 011,Electronics,Brand K,S15,627.74,803.6
+P0012,Electronics Item 012,Electronics,Brand B,S00,181.13,260.49
+P0013,Electronics Item 013,Electronics,Brand K,S00,117.24,164.79
+P0014,Electronics Item 014,Electronics,Brand B,S00,517.09,733.64
+P0015,Electronics Item 015,Electronics,Brand D,S06,210.23,292.14
+P0016,Electronics Item 016,Electronics,Brand L,S00,125.22,149.79
+P0017,Electronics Item 017,Electronics,Brand L,S07,120.6,164.12
+P0018,Electronics Item 018,Electronics,Brand B,S00,694.8,926.96
+P0019,Electronics Item 019,Electronics,Brand B,S00,978.17,1341.64
+P0020,Electronics Item 020,Electronics,Brand I,S03,117.61,168.79
+P0021,Electronics Item 021,Electronics,Brand G,S23,204.19,267.38
+P0022,Electronics Item 022,Electronics,Brand H,S00,195.17,279.95
+P0023,Electronics Item 023,Electronics,Brand K,S00,450.63,607.73
+P0024,Electronics Item 024,Electronics,Brand B,S10,294.99,426.99
+P0025,Electronics Item 025,Electronics,Brand F,S17,1461.19,2042.12
+P0026,Electronics Item 026,Electronics,Brand F,S18,84.57,102.95
+P0027,Electronics Item 027,Electronics,Brand E,S10,956.16,1191.27
+P0028,Electronics Item 028,Electronics,Brand G,S03,1192.43,1598.01
+P0029,Electronics Item 029,Electronics,Brand B,S20,256.48,331.71
+P0030,Electronics Item 030,Electronics,Brand H,S00,328.73,410.75
+P0031,Electronics Item 031,Electronics,Brand L,S00,816.28,1143.78
+P0032,Electronics Item 032,Electronics,Brand B,S18,509.18,624.13
+P0033,Electronics Item 033,Electronics,Brand K,S00,210.24,257.6
+P0034,Electronics Item 034,Electronics,Brand L,S00,194.13,238.28
+P0035,Electronics Item 035,Electronics,Brand C,S00,85.44,102.99
+P0036,Electronics Item 036,Electronics,Brand C,S03,503.99,686.3
+P0037,Electronics Item 037,Electronics,Brand I,S19,215.31,282.86
+P0038,Electronics Item 038,Electronics,Brand K,S00,91.6,113.02
+P0039,Electronics Item 039,Electronics,Brand L,S00,173.9,231.55
+P0040,Electronics Item 040,Electronics,Brand E,S00,256.03,337.64
+P0041,Electronics Item 041,Electronics,Brand E,S00,1071.71,1290.94
+P0042,Electronics Item 042,Electronics,Brand L,S24,1106.01,1578.77
+P0043,Electronics Item 043,Electronics,Brand H,S16,971.8,1351.0
+P0044,Electronics Item 044,Electronics,Brand H,S07,121.63,160.8
+P0045,Electronics Item 045,Electronics,Brand J,S11,1155.27,1505.1
+P0046,Electronics Item 046,Electronics,Brand E,S05,183.4,224.53
+P0047,Electronics Item 047,Electronics,Brand E,S02,292.95,364.98
+P0048,Electronics Item 048,Electronics,Brand E,S13,221.78,284.24
+P0049,Electronics Item 049,Electronics,Brand I,S06,201.61,290.72
+P0050,Electronics Item 050,Electronics,Brand K,S19,222.38,293.96
+P0051,Electronics Item 051,Electronics,Brand G,S11,610.25,852.87
+P0052,Electronics Item 052,Electronics,Brand G,S00,196.21,270.23
+P0053,Electronics Item 053,Electronics,Brand L,S10,695.96,984.47
+P0054,Electronics Item 054,Electronics,Brand B,S00,107.57,147.86
+P0055,Electronics Item 055,Electronics,Brand L,S17,1474.52,1804.45
+P0056,Electronics Item 056,Electronics,Brand L,S17,507.99,706.68
+P0057,Electronics Item 057,Electronics,Brand I,S00,1521.57,1903.19
+P0058,Electronics Item 058,Electronics,Brand H,S09,544.83,670.97
+P0059,Electronics Item 059,Electronics,Brand I,S16,475.47,619.83
+P0060,Electronics Item 060,Electronics,Brand G,S10,963.42,1262.5
+P0061,Fashion Item 061,Fashion,Brand J,S00,291.91,537.67
+P0062,Fashion Item 062,Fashion,Brand B,S16,141.88,300.76
+P0063,Fashion Item 063,Fashion,Brand I,S16,146.98,298.74
+P0064,Fashion Item 064,Fashion,Brand K,S00,51.05,105.32
+P0065,Fashion Item 065,Fashion,Brand B,S04,37.9,70.67
+P0066,Fashion Item 066,Fashion,Brand L,S08,68.75,172.87
+P0067,Fashion Item 067,Fashion,Brand H,S02,295.72,766.82
+P0068,Fashion Item 068,Fashion,Brand F,S23,337.87,843.54
+P0069,Fashion Item 069,Fashion,Brand K,S00,34.18,92.64
+P0070,Fashion Item 070,Fashion,Brand H,S00,118.08,289.35
+P0071,Fashion Item 071,Fashion,Brand F,S05,82.92,221.17
+P0072,Fashion Item 072,Fashion,Brand D,S21,80.33,160.81
+P0073,Fashion Item 073,Fashion,Brand E,S20,196.52,360.52
+P0074,Fashion Item 074,Fashion,Brand L,S00,52.89,142.1
+P0075,Fashion Item 075,Fashion,Brand B,S00,349.17,845.6
+P0076,Fashion Item 076,Fashion,Brand H,S00,266.72,472.47
+P0077,Fashion Item 077,Fashion,Brand J,S21,36.46,94.35
+P0078,Fashion Item 078,Fashion,Brand C,S00,141.29,251.04
+P0079,Fashion Item 079,Fashion,Brand L,S00,28.65,67.07
+P0080,Fashion Item 080,Fashion,Brand J,S17,235.22,421.69
+P0081,Fashion Item 081,Fashion,Brand K,S19,289.28,746.34
+P0082,Fashion Item 082,Fashion,Brand I,S00,27.79,53.11
+P0083,Fashion Item 083,Fashion,Brand G,S19,94.67,240.27
+P0084,Fashion Item 084,Fashion,Brand H,S00,37.66,94.97
+P0085,Fashion Item 085,Fashion,Brand G,S10,51.08,126.94
+P0086,Fashion Item 086,Fashion,Brand L,S00,28.87,67.97
+P0087,Fashion Item 087,Fashion,Brand E,S00,257.8,640.53
+P0088,Fashion Item 088,Fashion,Brand C,S05,40.58,120.02
+P0089,Fashion Item 089,Fashion,Brand K,S00,197.97,471.46
+P0090,Fashion Item 090,Fashion,Brand G,S09,303.53,607.45
+P0091,Fashion Item 091,Fashion,Brand F,S00,158.48,380.18
+P0092,Fashion Item 092,Fashion,Brand L,S05,95.63,201.22
+P0093,Fashion Item 093,Fashion,Brand L,S00,34.24,63.47
+P0094,Fashion Item 094,Fashion,Brand D,S11,77.33,181.55
+P0095,Fashion Item 095,Fashion,Brand K,S09,74.12,156.34
+P0096,Fashion Item 096,Fashion,Brand C,S03,57.72,102.55
+P0097,Fashion Item 097,Fashion,Brand B,S09,87.37,168.76
+P0098,Fashion Item 098,Fashion,Brand G,S12,159.41,382.14
+P0099,Fashion Item 099,Fashion,Brand E,S04,57.59,150.0
+P0100,Fashion Item 100,Fashion,Brand G,S07,130.45,268.65
+P0101,Fashion Item 101,Fashion,Brand B,S06,174.7,484.77
+P0102,Fashion Item 102,Fashion,Brand L,S00,98.68,259.02
+P0103,Fashion Item 103,Fashion,Brand A,S00,227.87,502.16
+P0104,Fashion Item 104,Fashion,Brand B,S00,230.66,413.22
+P0105,Fashion Item 105,Fashion,Brand I,S15,60.38,113.87
+P0106,Fashion Item 106,Fashion,Brand D,S19,25.99,69.4
+P0107,Fashion Item 107,Fashion,Brand C,S00,66.77,124.84
+P0108,Fashion Item 108,Fashion,Brand H,S24,65.49,190.81
+P0109,Fashion Item 109,Fashion,Brand J,S14,191.81,385.63
+P0110,Fashion Item 110,Fashion,Brand I,S00,69.58,166.12
+P0111,Fashion Item 111,Fashion,Brand F,S00,43.41,97.23
+P0112,Fashion Item 112,Fashion,Brand B,S08,227.22,676.42
+P0113,Fashion Item 113,Fashion,Brand H,S04,228.89,681.95
+P0114,Fashion Item 114,Fashion,Brand B,S15,70.45,127.54
+P0115,Fashion Item 115,Fashion,Brand L,S00,78.54,170.86
+P0116,Fashion Item 116,Fashion,Brand B,S00,273.9,488.42
+P0117,Fashion Item 117,Fashion,Brand L,S06,54.04,118.83
+P0118,Fashion Item 118,Fashion,Brand H,S19,31.21,60.8
+P0119,Fashion Item 119,Fashion,Brand E,S16,134.49,322.63
+P0120,Fashion Item 120,Fashion,Brand I,S08,29.14,60.2
+P0121,Fashion Item 121,Fashion,Brand D,S16,61.07,164.9
+P0122,Fashion Item 122,Fashion,Brand F,S21,236.84,524.87
+P0123,Fashion Item 123,Fashion,Brand E,S06,117.72,319.05
+P0124,Fashion Item 124,Fashion,Brand E,S03,101.63,185.98
+P0125,Fashion Item 125,Fashion,Brand E,S00,281.4,668.05
+P0126,Fashion Item 126,Fashion,Brand C,S22,41.45,73.3
+P0127,Fashion Item 127,Fashion,Brand B,S00,81.59,163.77
+P0128,Fashion Item 128,Fashion,Brand H,S11,52.07,128.87
+P0129,Fashion Item 129,Fashion,Brand K,S16,333.59,787.28
+P0130,Fashion Item 130,Fashion,Brand F,S23,271.19,678.25
+P0131,Fashion Item 131,Fashion,Brand A,S15,196.89,539.35
+P0132,Fashion Item 132,Fashion,Brand B,S12,79.86,181.61
+P0133,Fashion Item 133,Fashion,Brand B,S15,323.2,959.04
+P0134,Fashion Item 134,Fashion,Brand D,S00,180.93,370.06
+P0135,Fashion Item 135,Fashion,Brand L,S24,27.85,72.09
+P0136,Fashion Item 136,Fashion,Brand F,S03,85.28,251.87
+P0137,Fashion Item 137,Fashion,Brand C,S17,203.05,368.35
+P0138,Fashion Item 138,Fashion,Brand G,S00,286.92,763.96
+P0139,Fashion Item 139,Fashion,Brand E,S13,66.85,119.41
+P0140,Fashion Item 140,Fashion,Brand B,S20,164.22,424.11
+P0141,Home & Kitchen Item 141,Home & Kitchen,Brand E,S00,247.32,440.28
+P0142,Home & Kitchen Item 142,Home & Kitchen,Brand A,S00,165.82,301.04
+P0143,Home & Kitchen Item 143,Home & Kitchen,Brand G,S03,115.13,196.71
+P0144,Home & Kitchen Item 144,Home & Kitchen,Brand A,S00,420.72,717.51
+P0145,Home & Kitchen Item 145,Home & Kitchen,Brand J,S00,363.66,561.2
+P0146,Home & Kitchen Item 146,Home & Kitchen,Brand K,S00,148.94,233.2
+P0147,Home & Kitchen Item 147,Home & Kitchen,Brand I,S01,407.93,601.17
+P0148,Home & Kitchen Item 148,Home & Kitchen,Brand B,S24,229.65,409.73
+P0149,Home & Kitchen Item 149,Home & Kitchen,Brand G,S09,54.8,86.09
+P0150,Home & Kitchen Item 150,Home & Kitchen,Brand B,S10,595.08,1024.62
+P0151,Home & Kitchen Item 151,Home & Kitchen,Brand C,S00,75.96,140.69
+P0152,Home & Kitchen Item 152,Home & Kitchen,Brand F,S00,69.3,98.79
+P0153,Home & Kitchen Item 153,Home & Kitchen,Brand L,S01,21.24,33.82
+P0154,Home & Kitchen Item 154,Home & Kitchen,Brand H,S15,83.56,157.19
+P0155,Home & Kitchen Item 155,Home & Kitchen,Brand E,S00,125.88,190.7
+P0156,Home & Kitchen Item 156,Home & Kitchen,Brand K,S07,60.48,111.76
+P0157,Home & Kitchen Item 157,Home & Kitchen,Brand H,S00,249.76,415.05
+P0158,Home & Kitchen Item 158,Home & Kitchen,Brand H,S00,45.45,69.62
+P0159,Home & Kitchen Item 159,Home & Kitchen,Brand A,S17,391.29,592.56
+P0160,Home & Kitchen Item 160,Home & Kitchen,Brand G,S05,287.63,455.99
+P0161,Home & Kitchen Item 161,Home & Kitchen,Brand D,S21,589.28,1005.96
+P0162,Home & Kitchen Item 162,Home & Kitchen,Brand J,S09,291.34,429.06
+P0163,Home & Kitchen Item 163,Home & Kitchen,Brand D,S07,28.28,47.95
+P0164,Home & Kitchen Item 164,Home & Kitchen,Brand L,S23,87.21,123.28
+P0165,Home & Kitchen Item 165,Home & Kitchen,Brand A,S00,28.39,40.19
+P0166,Home & Kitchen Item 166,Home & Kitchen,Brand C,S00,94.04,152.66
+P0167,Home & Kitchen Item 167,Home & Kitchen,Brand H,S00,23.79,34.32
+P0168,Home & Kitchen Item 168,Home & Kitchen,Brand E,S00,214.95,318.52
+P0169,Home & Kitchen Item 169,Home & Kitchen,Brand B,S00,76.42,120.36
+P0170,Home & Kitchen Item 170,Home & Kitchen,Brand A,S07,376.22,526.88
+P0171,Home & Kitchen Item 171,Home & Kitchen,Brand E,S16,105.7,162.41
+P0172,Home & Kitchen Item 172,Home & Kitchen,Brand F,S00,349.61,525.98
+P0173,Home & Kitchen Item 173,Home & Kitchen,Brand K,S00,45.63,73.25
+P0174,Home & Kitchen Item 174,Home & Kitchen,Brand I,S00,61.6,114.69
+P0175,Home & Kitchen Item 175,Home & Kitchen,Brand C,S00,95.86,165.63
+P0176,Home & Kitchen Item 176,Home & Kitchen,Brand B,S00,32.0,59.34
+P0177,Home & Kitchen Item 177,Home & Kitchen,Brand B,S11,37.95,53.58
+P0178,Home & Kitchen Item 178,Home & Kitchen,Brand B,S09,45.49,75.09
+P0179,Home & Kitchen Item 179,Home & Kitchen,Brand D,S11,359.54,504.0
+P0180,Home & Kitchen Item 180,Home & Kitchen,Brand K,S19,34.79,61.35
+P0181,Home & Kitchen Item 181,Home & Kitchen,Brand G,S10,47.49,88.06
+P0182,Home & Kitchen Item 182,Home & Kitchen,Brand F,S18,569.48,882.33
+P0183,Home & Kitchen Item 183,Home & Kitchen,Brand B,S00,59.07,105.09
+P0184,Home & Kitchen Item 184,Home & Kitchen,Brand H,S00,81.77,125.07
+P0185,Home & Kitchen Item 185,Home & Kitchen,Brand E,S00,22.14,34.15
+P0186,Home & Kitchen Item 186,Home & Kitchen,Brand A,S15,235.62,406.66
+P0187,Home & Kitchen Item 187,Home & Kitchen,Brand B,S00,58.82,107.97
+P0188,Home & Kitchen Item 188,Home & Kitchen,Brand H,S00,32.61,56.0
+P0189,Home & Kitchen Item 189,Home & Kitchen,Brand D,S00,112.3,213.74
+P0190,Home & Kitchen Item 190,Home & Kitchen,Brand A,S00,586.05,972.01
+P0191,Home & Kitchen Item 191,Home & Kitchen,Brand E,S11,423.11,774.09
+P0192,Home & Kitchen Item 192,Home & Kitchen,Brand G,S10,50.65,71.88
+P0193,Home & Kitchen Item 193,Home & Kitchen,Brand L,S00,54.5,92.71
+P0194,Home & Kitchen Item 194,Home & Kitchen,Brand K,S20,151.7,226.33
+P0195,Home & Kitchen Item 195,Home & Kitchen,Brand C,S03,47.39,79.26
+P0196,Home & Kitchen Item 196,Home & Kitchen,Brand G,S09,200.43,347.94
+P0197,Home & Kitchen Item 197,Home & Kitchen,Brand B,S07,263.82,500.64
+P0198,Home & Kitchen Item 198,Home & Kitchen,Brand F,S07,20.87,37.09
+P0199,Home & Kitchen Item 199,Home & Kitchen,Brand J,S03,80.1,115.03
+P0200,Home & Kitchen Item 200,Home & Kitchen,Brand K,S23,203.84,297.21
+P0201,Beauty Item 201,Beauty,Brand L,S21,17.36,30.37
+P0202,Beauty Item 202,Beauty,Brand K,S15,19.27,37.99
+P0203,Beauty Item 203,Beauty,Brand E,S15,151.06,285.66
+P0204,Beauty Item 204,Beauty,Brand G,S09,95.83,221.5
+P0205,Beauty Item 205,Beauty,Brand I,S17,13.82,34.22
+P0206,Beauty Item 206,Beauty,Brand K,S15,13.62,23.87
+P0207,Beauty Item 207,Beauty,Brand L,S14,10.74,27.83
+P0208,Beauty Item 208,Beauty,Brand E,S00,155.42,295.98
+P0209,Beauty Item 209,Beauty,Brand E,S10,65.64,136.55
+P0210,Beauty Item 210,Beauty,Brand E,S00,180.17,354.87
+P0211,Beauty Item 211,Beauty,Brand J,S00,32.09,61.1
+P0212,Beauty Item 212,Beauty,Brand B,S23,82.98,154.17
+P0213,Beauty Item 213,Beauty,Brand F,S20,21.23,35.66
+P0214,Beauty Item 214,Beauty,Brand J,S00,23.62,41.38
+P0215,Beauty Item 215,Beauty,Brand F,S00,50.21,98.93
+P0216,Beauty Item 216,Beauty,Brand D,S12,44.3,113.39
+P0217,Beauty Item 217,Beauty,Brand C,S00,46.26,78.05
+P0218,Beauty Item 218,Beauty,Brand D,S21,106.34,259.17
+P0219,Beauty Item 219,Beauty,Brand E,S00,209.75,544.6
+P0220,Beauty Item 220,Beauty,Brand L,S08,15.31,28.01
+P0221,Beauty Item 221,Beauty,Brand I,S08,13.5,32.31
+P0222,Beauty Item 222,Beauty,Brand H,S00,16.67,29.83
+P0223,Beauty Item 223,Beauty,Brand G,S00,139.2,290.04
+P0224,Beauty Item 224,Beauty,Brand I,S16,31.5,60.28
+P0225,Beauty Item 225,Beauty,Brand H,S00,108.85,191.03
+P0226,Beauty Item 226,Beauty,Brand L,S00,159.58,268.13
+P0227,Beauty Item 227,Beauty,Brand H,S04,136.88,237.51
+P0228,Beauty Item 228,Beauty,Brand E,S19,21.34,47.43
+P0229,Beauty Item 229,Beauty,Brand G,S00,149.3,277.37
+P0230,Beauty Item 230,Beauty,Brand G,S22,21.31,36.7
+P0231,Beauty Item 231,Beauty,Brand D,S06,155.62,358.6
+P0232,Beauty Item 232,Beauty,Brand G,S04,51.42,104.67
+P0233,Beauty Item 233,Beauty,Brand C,S06,15.03,25.51
+P0234,Beauty Item 234,Beauty,Brand L,S08,190.37,328.17
+P0235,Beauty Item 235,Beauty,Brand K,S00,19.0,34.01
+P0236,Beauty Item 236,Beauty,Brand A,S10,170.14,313.62
+P0237,Beauty Item 237,Beauty,Brand G,S00,42.1,80.38
+P0238,Beauty Item 238,Beauty,Brand G,S15,212.39,500.66
+P0239,Beauty Item 239,Beauty,Brand J,S01,42.59,73.09
+P0240,Beauty Item 240,Beauty,Brand L,S17,11.68,21.72
+P0241,Grocery Item 241,Grocery,Brand H,S00,19.38,25.12
+P0242,Grocery Item 242,Grocery,Brand J,S11,47.75,59.17
+P0243,Grocery Item 243,Grocery,Brand D,S00,3.02,4.06
+P0244,Grocery Item 244,Grocery,Brand D,S00,11.84,14.05
+P0245,Grocery Item 245,Grocery,Brand B,S00,19.94,24.55
+P0246,Grocery Item 246,Grocery,Brand L,S12,26.42,32.84
+P0247,Grocery Item 247,Grocery,Brand H,S01,18.09,22.52
+P0248,Grocery Item 248,Grocery,Brand L,S19,5.1,6.54
+P0249,Grocery Item 249,Grocery,Brand D,S15,3.38,4.2
+P0250,Grocery Item 250,Grocery,Brand K,S12,58.55,73.51
+P0251,Grocery Item 251,Grocery,Brand I,S15,7.42,9.91
+P0252,Grocery Item 252,Grocery,Brand E,S14,10.04,12.66
+P0253,Grocery Item 253,Grocery,Brand D,S12,13.78,18.29
+P0254,Grocery Item 254,Grocery,Brand F,S04,8.37,10.32
+P0255,Grocery Item 255,Grocery,Brand D,S12,4.37,5.17
+P0256,Grocery Item 256,Grocery,Brand I,S00,21.86,25.57
+P0257,Grocery Item 257,Grocery,Brand L,S00,5.43,7.06
+P0258,Grocery Item 258,Grocery,Brand K,S00,22.18,26.33
+P0259,Grocery Item 259,Grocery,Brand D,S21,4.54,5.51
+P0260,Grocery Item 260,Grocery,Brand I,S14,5.5,6.92
+P0261,Grocery Item 261,Grocery,Brand I,S11,52.11,66.18
+P0262,Grocery Item 262,Grocery,Brand D,S03,7.84,10.51
+P0263,Grocery Item 263,Grocery,Brand G,S20,23.38,27.36
+P0264,Grocery Item 264,Grocery,Brand E,S22,18.67,23.15
+P0265,Grocery Item 265,Grocery,Brand K,S06,38.74,47.23
+P0266,Grocery Item 266,Grocery,Brand G,S00,19.94,24.34
+P0267,Grocery Item 267,Grocery,Brand D,S24,46.19,61.46
+P0268,Grocery Item 268,Grocery,Brand K,S16,27.95,36.31
+P0269,Grocery Item 269,Grocery,Brand I,S12,12.66,15.73
+P0270,Grocery Item 270,Grocery,Brand C,S09,7.14,8.62
+P0271,Grocery Item 271,Grocery,Brand H,S19,10.25,12.31
+P0272,Grocery Item 272,Grocery,Brand J,S00,4.96,5.79
+P0273,Grocery Item 273,Grocery,Brand C,S16,32.71,42.97
+P0274,Grocery Item 274,Grocery,Brand B,S24,4.24,5.22
+P0275,Grocery Item 275,Grocery,Brand A,S11,5.34,6.36
+P0276,Grocery Item 276,Grocery,Brand F,S00,49.07,65.87
+P0277,Grocery Item 277,Grocery,Brand C,S20,4.54,5.92
+P0278,Grocery Item 278,Grocery,Brand D,S18,21.89,25.93
+P0279,Grocery Item 279,Grocery,Brand G,S06,5.09,6.29
+P0280,Grocery Item 280,Grocery,Brand G,S24,23.43,29.95
+P0281,Toys & Baby Item 281,Toys & Baby,Brand B,S15,299.48,526.98
+P0282,Toys & Baby Item 282,Toys & Baby,Brand B,S05,279.74,461.6
+P0283,Toys & Baby Item 283,Toys & Baby,Brand E,S01,53.55,81.52
+P0284,Toys & Baby Item 284,Toys & Baby,Brand I,S18,158.71,312.32
+P0285,Toys & Baby Item 285,Toys & Baby,Brand C,S17,52.26,86.32
+P0286,Toys & Baby Item 286,Toys & Baby,Brand I,S00,65.35,131.6
+P0287,Toys & Baby Item 287,Toys & Baby,Brand D,S08,208.83,322.08
+P0288,Toys & Baby Item 288,Toys & Baby,Brand B,S00,18.36,27.97
+P0289,Toys & Baby Item 289,Toys & Baby,Brand B,S12,55.43,106.78
+P0290,Toys & Baby Item 290,Toys & Baby,Brand A,S00,176.61,278.27
+P0291,Toys & Baby Item 291,Toys & Baby,Brand G,S18,197.71,387.75
+P0292,Toys & Baby Item 292,Toys & Baby,Brand G,S15,19.8,33.48
+P0293,Toys & Baby Item 293,Toys & Baby,Brand C,S15,32.44,61.98
+P0294,Toys & Baby Item 294,Toys & Baby,Brand G,S00,60.35,101.15
+P0295,Toys & Baby Item 295,Toys & Baby,Brand L,S00,28.0,53.49
+P0296,Toys & Baby Item 296,Toys & Baby,Brand B,S18,25.44,40.17
+P0297,Toys & Baby Item 297,Toys & Baby,Brand K,S12,49.49,103.54
+P0298,Toys & Baby Item 298,Toys & Baby,Brand B,S20,57.53,97.21
+P0299,Toys & Baby Item 299,Toys & Baby,Brand F,S00,278.85,557.25
+P0300,Toys & Baby Item 300,Toys & Baby,Brand C,S15,107.07,175.06
+P0301,Toys & Baby Item 301,Toys & Baby,Brand E,S14,81.85,145.71
+P0302,Toys & Baby Item 302,Toys & Baby,Brand J,S10,16.24,24.71
+P0303,Toys & Baby Item 303,Toys & Baby,Brand D,S16,64.36,104.3
+P0304,Toys & Baby Item 304,Toys & Baby,Brand F,S02,178.46,318.81
+P0305,Toys & Baby Item 305,Toys & Baby,Brand B,S09,33.75,59.5
+P0306,Toys & Baby Item 306,Toys & Baby,Brand D,S00,113.88,174.1
+P0307,Toys & Baby Item 307,Toys & Baby,Brand J,S00,28.33,57.09
+P0308,Toys & Baby Item 308,Toys & Baby,Brand H,S05,215.95,374.16
+P0309,Toys & Baby Item 309,Toys & Baby,Brand E,S09,247.32,377.39
+P0310,Toys & Baby Item 310,Toys & Baby,Brand C,S00,26.94,50.15
